@@ -3,3 +3,4 @@ uvicorn
 PyPDF2
 docx
 exceptions
+--upgrade pip
