@@ -5,3 +5,4 @@ python-docx
 nltk
 transformers
 language-tool-python
+torch
