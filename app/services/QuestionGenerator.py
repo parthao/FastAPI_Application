@@ -1,5 +1,5 @@
 from transformers import pipeline
-from .IQuestionGenerator import IQuestionGenerator
+from .interface.IQuestionGenerator import IQuestionGenerator
 from app.services.SentenceCheck import SentenceCheck
 from app.models.AIParamModel import AIParam
 import torch

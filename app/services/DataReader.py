@@ -1,4 +1,4 @@
-from .IDataReader import IDataReader
+from .interface.IDataReader import IDataReader
 from PyPDF2 import PdfReader
 from docx import Document
 

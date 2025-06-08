@@ -1,4 +1,4 @@
-from .ISentenceCheck import ISentenceCheck
+from .interface.ISentenceCheck import ISentenceCheck
 from transformers import GPT2LMHeadModel, GPT2TokenizerFast
 import language_tool_python
 import torch

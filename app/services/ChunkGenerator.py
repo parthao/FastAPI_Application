@@ -1,4 +1,4 @@
-from .IChunkGenerator import IChunkGenerator
+from .interface.IChunkGenerator import IChunkGenerator
 import nltk
 from nltk.tokenize import sent_tokenize
 class ChunkGenerator(IChunkGenerator):

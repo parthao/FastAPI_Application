@@ -6,3 +6,4 @@ nltk
 transformers
 language-tool-python
 torch
+sentence-transformers
